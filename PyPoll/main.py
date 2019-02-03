@@ -50,10 +50,10 @@ with open(csvpath, newline='') as csvfile:
         else:
             pass
 
-    #Add each candidate's votes to a list
+    #Add each candidate's sum of votes to a list
     votes_list = [sum0, sum1, sum2, sum3]
     for x in range(len(votes_list)):
-        #If the current sum of votes is higher then the previous sum, that candidate becomes the winner
+        #If the current candidate's sum of votes is higher then the previous, that candidate becomes the winner
         if votes_list[x] > starter:
             winner = candidates[x]
             starter = votes_list[x]
