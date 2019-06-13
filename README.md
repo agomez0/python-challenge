@@ -5,9 +5,9 @@
 ### What This Is:
 A python script for analyzing the financial records of a company.
 
-Financial data used: [budget_data.csv](PyBank/budget_data.csv)
+### Financial data used: [budget_data.csv](PyBank/budget_data.csv)
 
-Calculated:
+### Calculated:
 
   * The total number of months included in the dataset.
 
@@ -28,9 +28,9 @@ Calculated:
 ### What This Is:
 A python script for counting votes for each candidate from a small town.
 
-Poll data used: [election_data.csv](PyPoll/election_data.csv)
+### Poll data used: [election_data.csv](PyPoll/election_data.csv)
 
-Calculated: 
+### Calculated: 
 
   * The total number of votes cast.
 
