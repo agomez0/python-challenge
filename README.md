@@ -2,7 +2,7 @@
 
 ![Revenue](Images/revenue-per-lead.jpg)
 
-## What This Is:
+### What This Is:
 A python script for analyzing the financial records of a company.
 
 Financial data used: [budget_data.csv](PyBank/budget_data.csv)
@@ -25,7 +25,7 @@ Calculated:
 
 ![Revenue](Images/Vote_counting.jpg)
 
-## What This Is:
+### What This Is:
 A python script for counting votes for each candidate from a small town.
 
 Poll data used: [election_data.csv](PyPoll/election_data.csv)
