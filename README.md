@@ -1,4 +1,4 @@
- ##PyBank
+## PyBank
 
 ![Revenue](Images/revenue-per-lead.jpg)
 
@@ -21,7 +21,7 @@ Calculated:
 
 ### Text file with results: [Results](PyBank/data.txt)
 
-##PyPoll
+## PyPoll
 
 ![Revenue](Images/Vote_counting.jpg)
 
