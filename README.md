@@ -21,6 +21,10 @@ A python script for analyzing the financial records of a company.
 
 ### Text file with results: [Results](PyBank/data.txt)
 
+### How to Run the App:
+* Open a terminal in the downloaded repo and run the command
+`python main.py`
+
 ## PyPoll
 
 ![Revenue](Images/Vote_counting.jpg)
@@ -43,6 +47,10 @@ A python script for counting votes for each candidate from a small town.
   * The winner of the election based on popular vote.
 
 ### Text file with results: [Results](PyPoll/data.txt)
+
+### How to Run the App:
+* Open a terminal in the downloaded repo and run the command
+`python main.py`
 
 
 
